@@ -1,0 +1,1 @@
+This folder contains the original set of 14 workflow modules published with the paper Digitization Workflows for Flat Sheets and Packets of Plants, Algae, and Fungi. Files in this folder are linked to the paper and will not be edited or revised. Future revisions will be stored in a spearate directory.
