@@ -1,1 +1,3 @@
 This folder contains the original set of 14 workflow modules published with the paper Digitization workflows for flat sheets and packets of plants, algae, and fungi, Nelson, G., P. Sweeney, L. E. Wallace, R. K. Rabeler, D. Allard, H. Brown, J. R. Carter, et al., Applications in Plant Sciences 3(9): 1500065. doi:10.3732/apps.1500065 (http://www.bioone.org/doi/pdf/10.3732/apps.1500065). Files in this folder are linked to the published paper and will not be edited or revised. Future revisions will be stored in a spearate directory. PDF and Word versions are provided in separate folders. 
+
+These workflows are being distributed under a Creative Commons CC BY license.
